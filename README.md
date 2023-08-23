@@ -1,1 +1,1 @@
-# wbs
+# WBS Coding School
